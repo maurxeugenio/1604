@@ -1,5 +1,4 @@
 import React from 'react';
-import Button from '@material-ui/core/Button';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Typography from '@material-ui/core/Typography';
 import Container from '@material-ui/core/Container';
@@ -12,7 +11,7 @@ function App() {
       <Container maxWidth="sm">
         <Typography component="div" style={{ flexDirection: 'column', display: 'flex', align: 'center', justifyContent: 'center',  height: '80vh' }}>
         <img src={img}  alt="Logo 1604" width="60%" style={{margin: 'auto'}}/>
-        <h1 style={{ fontWeight: 500, padding: 0, margin: 0, fontSize: '50pt'}}>Bem, vindo</h1>
+        <h1 style={{ fontWeight: 500, padding: 0, margin: 0, fontSize: '50pt'}}>Bem-vindo,</h1>
         <h2 style={{ fontWeight: 300}}>
           Estamos em fase inicial, portanto ainda não temos nada por aqui.
           Porém você pode entrar em contato, através dos meios de comunicação abaixo.
