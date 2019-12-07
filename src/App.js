@@ -22,7 +22,7 @@ function App() {
           <div>
             <Index />
             <Component headline="cuidamos de tudo" headlineComplement="infra. site. blog. e-commerce. landpage."  />
-            <Component headline="seja um gênio" headlineComplement="entre em contato"content="eugenio@1604.in" />
+            <Component headline="seja um gênio" headlineComplement="entre em contato conosco."content="eugenio@1604.in" />
           </div>
         );
       }}
