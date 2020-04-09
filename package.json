@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@fullpage/react-fullpage": "^0.1.17",
     "react": "^16.11.0",
+    "react-copy-to-clipboard": "^5.0.2",
     "react-dom": "^16.11.0",
     "react-grid-system": "^6.0.7",
+    "react-icons": "^3.9.0",
     "react-scripts": "3.2.0"
   },
   "scripts": {
